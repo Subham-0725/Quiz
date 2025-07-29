@@ -32,3 +32,6 @@ A simple, responsive quiz application built using **HTML**, **CSS**, and **JavaS
 
 This project is open-source and free to use for learning and development purposes.
 
+🤝 Contributing Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+🙋‍♂️ Author Subham Satyajit Made with ❤️ by a developer learning and building step by step. https://github.com/Subham-0725
